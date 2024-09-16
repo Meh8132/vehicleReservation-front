@@ -14,8 +14,8 @@ Currently, two official plugins are available:
 Es requerido tener instalado Node. Dentro de la carpeta reservation-frontend se instaln las dependencias usando 
 ```
 npm install
-
 ```
+
 Para ejecutar el servidor de desarrollo, usar
 ```
 npm run dev
